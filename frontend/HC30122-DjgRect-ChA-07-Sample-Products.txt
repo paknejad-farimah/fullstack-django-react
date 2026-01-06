@@ -1,0 +1,4 @@
+https://hamruyesh.com/product/what-json-api-files-programming/ #What is json
+https://hamruyesh.com/product/what-is-rest-api-restful-conditions/ #What is rest api
+https://hamruyesh.com/product/what-is-api-web-api/ #What is web api
+https://hamruyesh.com/product/django-rest-framework-api-tutorials/ #django rest framework basic
