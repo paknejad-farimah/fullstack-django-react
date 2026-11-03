@@ -7,3 +7,4 @@ Pillow
 requests
 pytz
 PyJWT
+gunicorn
